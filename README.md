@@ -2,7 +2,7 @@
 - 👀 I’m interested in Research analysis
 - 🌱 I’m currently learning data analysis tools such as excel, R, SQl, Python etc.
 - 💞️ I’m looking to collaborate on any development research work.
-- 📫 You can reach me here on github or send a connection on LinkedIn @ https://www.linkedin.com/in/chioma-nwankwo-200072286/
+- 📫 You can reach me here on github or send a connection on LinkedIn @ https://www.linkedin.com/in/chinwankwo001/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love horror movies and eating chicken pie...
 
