@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Data-with-Bridget
+- 👋 Hi, I’m @DataWithBridget
 - 👀 I’m interested in Research analysis
 - 🌱 I’m currently learning data analysis tools such as excel, R, SQl, Python etc.
 - 💞️ I’m looking to collaborate on any development research work.
